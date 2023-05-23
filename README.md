@@ -1,8 +1,5 @@
 # GithubRepositories
 
-The project is executable on Master branche.
-
-
 # DESCRIPTION
 
 This application allows the user to view the repositories of a GitHub user. It consists of 3 screens:
